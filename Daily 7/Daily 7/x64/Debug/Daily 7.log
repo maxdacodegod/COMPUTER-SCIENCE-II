@@ -1,0 +1,9 @@
+﻿  daily7.c
+C:\COMP1020\Daily 7\Daily 7\daily7.c(46,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP1020\Daily 7\Daily 7\daily7.c(47,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP1020\Daily 7\Daily 7\daily7.c(54,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP1020\Daily 7\Daily 7\daily7.c(84,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\COMP1020\Daily 7\Daily 7\daily7.c(42,7): warning C4101: 'c': unreferenced local variable
+C:\COMP1020\Daily 7\Daily 7\daily7.c(67,7): warning C4101: 'str': unreferenced local variable
+C:\COMP1020\Daily 7\Daily 7\daily7.c(179,11): warning C4305: 'return': truncation from 'int' to 'char'
+  Daily 7.vcxproj -> C:\COMP1020\Daily 7\x64\Debug\Daily 7.exe
