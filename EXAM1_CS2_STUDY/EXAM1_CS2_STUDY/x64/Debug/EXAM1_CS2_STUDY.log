@@ -1,0 +1,17 @@
+﻿  main.c
+C:\COMP1020\EXAM1_CS2_STUDY\EXAM1_CS2_STUDY\main.c(50,8): error C2011: 'node': 'struct' type redefinition
+  C:\COMP1020\EXAM1_CS2_STUDY\EXAM1_CS2_STUDY\main.c(17,8):
+  see declaration of 'node'
+  
+C:\COMP1020\EXAM1_CS2_STUDY\EXAM1_CS2_STUDY\main.c(58,5): error C2084: function 'int main(int,char **)' already has a body
+  C:\COMP1020\EXAM1_CS2_STUDY\EXAM1_CS2_STUDY\main.c(25,5):
+  see previous definition of 'main'
+  
+C:\COMP1020\EXAM1_CS2_STUDY\EXAM1_CS2_STUDY\main.c(78,8): error C2011: 'node': 'struct' type redefinition
+  C:\COMP1020\EXAM1_CS2_STUDY\EXAM1_CS2_STUDY\main.c(17,8):
+  see declaration of 'node'
+  
+C:\COMP1020\EXAM1_CS2_STUDY\EXAM1_CS2_STUDY\main.c(96,5): error C2084: function 'int sum(Node *)' already has a body
+  C:\COMP1020\EXAM1_CS2_STUDY\EXAM1_CS2_STUDY\main.c(67,5):
+  see previous definition of 'sum'
+  
