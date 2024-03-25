@@ -1,0 +1,8 @@
+﻿  generic_vector.c
+  main.c
+C:\COMP1020\Generic_Vector_301\Generic_Vector_301\main.c(16,40): warning C4047: 'function': 'void (__cdecl *)(ITEM *)' differs in levels of indirection from 'ITEM (__cdecl *)(ITEM)'
+C:\COMP1020\Generic_Vector_301\Generic_Vector_301\main.c(16,40): warning C4024: 'generic_vector_init_default': different types for formal and actual parameter 1
+C:\COMP1020\Generic_Vector_301\Generic_Vector_301\main.c(16,59): warning C4047: 'function': 'ITEM (__cdecl *)(ITEM)' differs in levels of indirection from 'void (__cdecl *)(ITEM *)'
+C:\COMP1020\Generic_Vector_301\Generic_Vector_301\main.c(16,59): warning C4022: 'generic_vector_init_default': pointer mismatch for actual parameter 2
+  Generating Code...
+  Generic_Vector_301.vcxproj -> C:\COMP1020\Generic_Vector_301\x64\Debug\Generic_Vector_301.exe
