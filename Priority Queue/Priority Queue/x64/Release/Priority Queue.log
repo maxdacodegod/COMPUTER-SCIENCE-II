@@ -1,0 +1,7 @@
+﻿  main.c
+  priority_queue.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Priority Queue.vcxproj -> C:\COMP1020\Priority Queue\x64\Release\Priority Queue.exe
